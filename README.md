@@ -5,7 +5,7 @@
 <br>
 <h2 align="center">
 <a href="https://fabricmc.net"><img src="https://cdn.discordapp.com/attachments/705864145169416313/969720133998239794/fabric_supported.png" width="200"></a> <br>
-<a href="https://github.com/Illyena/Gilding-core-Api/blob/1.20.1-dev/LICENSE"><img src="https:shields.io/github/license/Illyena/Gilding-core-Api"></a>
+<a href="https://github.com/Illyena/Gilding-core-Api/blob/1.18.2/LICENSE"><img src="https:shields.io/github/license/Illyena/Gilding-core-Api"></a>
 </h2>
 
 ## Description:

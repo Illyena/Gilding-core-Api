@@ -1,5 +1,18 @@
 {
   "schemaVersion": 1,
   "id": "gilding_api",
-  "version": "${version}"
+  "version": "${version}",
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "java": ">=17"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {},
+      "badges": [
+        "library"
+      ]
+    }
+  }
 }
